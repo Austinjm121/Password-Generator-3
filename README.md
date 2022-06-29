@@ -3,7 +3,7 @@ Challenge Module 03
 
 
 ## Deployed Website
-[https://austinjm121.github.io/Code-Refactor-1/]
+https://austinjm121.github.io/Code-Refactor-1/
 
 
 ## Brief overview of changes done on the Repository
